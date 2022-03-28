@@ -1,0 +1,8 @@
+Crie um objeto chamado Cliente com os atributos: id, nome, idade,
+telefone.
+
+Faça um programa para solicitar os dados de vários clientes e armazenar
+em um ArrayList até id seja igual a 0.
+
+Em seguida exiba os dados de todos os clientes, formatando cada objeto
+separado por linhas.

@@ -1,0 +1,7 @@
+Escreva a classe ConversaoDeUnidadesDeArea com métodos estáticos
+para as seguintes conversões das unidades de área
+
+a) 1 metro quadrado = 10.76 pés quadrados
+b) 1 pé quadrado = 929.03 centímetros quadrados
+c) 1 milha quadrada = 640 acres
+d) 1 acre = 43.560 pés quadrados
